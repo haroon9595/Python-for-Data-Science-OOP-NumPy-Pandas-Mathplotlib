@@ -55,5 +55,5 @@ This repository demonstrates my practical understanding of:
 ---
 
 ### 👨‍💻 Author
-Haroon  
+Muhammd Haroon Rashid
 Aspiring AI & Data Science Student
