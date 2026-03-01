@@ -1,11 +1,59 @@
-# Python-for-Data-Science-OOP-NumPy-Pandas-Mathplotlib
-This is my Structured Python notes covering OOP, NumPy, Pandas, and Matplotlib with practical examples.
+#  Python for Data Science – Learning Repository
 
-This repository contains my structured learning notes and practice code covering:
+This repository contains my structured Python learning journey covering:
 
-- Object-Oriented Programming (OOP)
+## 📂 Topics Covered
+
+### 🔹 Object Oriented Programming (OOP)
+- Classes & Objects
+- Constructors
+- Inheritance
+- Polymorphism
+- Encapsulation
+
+### 🔹 NumPy
+- Arrays
+- Indexing & Slicing
+- Mathematical Operations
+
+### 🔹 Pandas
+- DataFrames
+- Data Cleaning
+- Data Analysis
+- Working with CSV files
+
+### 🔹 Matplotlib
+- Line Plots
+- Bar Charts
+- Pie Charts
+- Data Visualization Projects
+
+---
+
+## 📊 Datasets Used
+- Netflix Sample Dataset
+- Netflix Titles Dataset
+
+---
+
+## 🎯 Purpose
+This repository demonstrates my practical understanding of:
+- Python Programming
+- Data Analysis
+- Data Visualization
+- Structured Coding Practices
+
+---
+
+## 🚀 Tools & Technologies
+- Python
 - NumPy
 - Pandas
 - Matplotlib
+- Jupyter Notebook
 
-These notes demonstrate my foundational understanding of Python and data analysis concepts.
+---
+
+### 👨‍💻 Author
+Haroon  
+Aspiring AI & Data Science Student
